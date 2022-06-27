@@ -20,3 +20,5 @@ class Cuenta():
             
 #ahora agregue esta linea editando en github 
 # y yo agrego esta desde vsc 
+
+#agrego esta linea desde LAB daec con otra cuenta
